@@ -1,0 +1,1 @@
+# flutter_scope_model
